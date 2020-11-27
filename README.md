@@ -7,7 +7,7 @@
 *List the dataset(s) you want to use, and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you've read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible given the datasets at hand.*
 ## Methods
 ## Proposed timeline
-![Alt text](https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_datanalyzers/edit/main/timeline.png?raw=true "Timeline")
+![Alt text](https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_datanalyzers/blob/main/timeline.png "Timeline")
 ## Organization within the team
 - Building baseline model: Alexandre Luster
 - Searching for Useful Google Trends Topics: Everyone
