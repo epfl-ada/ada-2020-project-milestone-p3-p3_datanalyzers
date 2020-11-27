@@ -8,6 +8,12 @@
 ## Methods
 ## Proposed timeline
 ## Organization within the team
-*A list of internal milestones up until project milestone P4. Add here a sketch of your planning for the next project milestone.*
+- Building baseline model: Alexandre Luster
+- Searching for Useful Google Trends Topics: Everyone
+- Building an improved model by using Google Trends Data: Erdem Bocugoz
+- Comparing the results: Baris Sevilmis
+- Creating a data story: Everyone 
+- Video pitch: Everyone
+
 ## Questions for TAs (optional)
 *Add here any questions you have for us related to the proposed project.*
