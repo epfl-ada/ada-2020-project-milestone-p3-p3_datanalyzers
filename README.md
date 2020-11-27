@@ -6,7 +6,7 @@ In this project, the main purpose is to investigate how Google Trends can be use
 * Could Google Trends queries improve forecasting on people’s feeling of security in their jobs ? 
 * Which keywords would be useful to make these predictions ? Are they the ones that could intuitively be expected ?
 ## Proposed dataset
-Proposed dataset is the “Probability of Losing a Job During the Next 5 Years” established by University of Michigan (available at: https://data.sca.isr.umich.edu/data-archive/mine.php, table 17). It contains distinct data points for each month starting from the 2004-01 (previous data is also available, but not from Google Trends, so it is of no use) to now. For the sake of convenience, the starting date was chosen as same as in the original “Predicting the Present with Google Trends” paper [1]. 
+The proposed dataset is the “Probability of Losing a Job During the Next 5 Years” established by University of Michigan (available at: https://data.sca.isr.umich.edu/data-archive/mine.php, table 17), which is measured monthly. We will only work on the data from 2004-01 onwards, For the sake of convenience, as in “Predicting the Present with Google Trends” [1], because Google Trends data is only available starting at that time. 
 Moreover, relevant time series of queries, provided by Google Trends, are going to be utilized. Queries to be used during the process are going to be investigated further.
 ## Methods
 * Building a baseline regression model to forecast people’s expectation for the probability of losing a job in the next 5 years.
