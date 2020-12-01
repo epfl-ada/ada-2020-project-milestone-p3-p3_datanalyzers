@@ -33,3 +33,10 @@ def bootstrap(x, n_iterations = 10000, gamma = 0.95):
     CI_low, CI_high = np.quantile(sample_mean, [q_low, q_high])   
         
     return CI_low, CI_high
+
+def mae(target, pred, start = None):
+    if start is not None:
+        target = target[start:]
+        pred = pred[start:]
+       
+    return np.abs(target-pred).mean()
