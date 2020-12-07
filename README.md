@@ -1,3 +1,4 @@
+[Data Story](https://lustea0201.github.io/DataStory/mainpage/)
 # Nowcasting confidence in job security using Google Trends
 
 ## Abstract
