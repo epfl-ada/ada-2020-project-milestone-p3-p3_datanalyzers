@@ -1,4 +1,4 @@
-[Data Story](https://lustea0201.github.io/DataStory/mainpage/)
+[Data Story](https://ebocugoz.github.io/)
 # Predicting perceived job security using Google Trends
 
 ## Abstract
