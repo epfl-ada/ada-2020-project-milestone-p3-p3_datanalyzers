@@ -1,4 +1,4 @@
-[Data Story](https://ebocugoz.github.io/)
+You can find the data story associated to this project here](https://ebocugoz.github.io/).
 # Predicting perceived job security using Google Trends
 
 ## Abstract
