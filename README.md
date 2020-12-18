@@ -21,6 +21,9 @@ model performance.
 
 ## Proposed timeline
 ![Alt text](https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_datanalyzers/blob/main/timeline.png "Timeline")
+**Update**:
+* We started the Data Story later than planned because finding useful Google Trends Topics in a methodical way more challenging than expected.
+* However, the organization within the team was respected
 ## Organization within the team
 * Building baseline model: Alexandre Luster
 * Searching for Useful Google Trends Topics: Everyone
