@@ -1,5 +1,5 @@
 [Data Story](https://lustea0201.github.io/DataStory/mainpage/)
-# Nowcasting confidence in job security using Google Trends
+# Predicting perceived job security using Google Trends
 
 ## Abstract
 In this project, the main purpose is to investigate how Google Trends can be used to forecast the American population’s perceived job security for the near future. The University of Michigan’s surveys of consumers are going to be used, which provide the probability the average American person thinks they have of losing their current job in the following 5 years. Our proposal is to extend the paper by exploring new techniques to find and select the relevant topics in Google Trends that improve predictive power of a baseline model for this probability. The relevance of these different topics will be analyzed and compared to expectations. The data subset corresponding to queries evaluated as beneficial to the model will be used to produce various forecasting models.
